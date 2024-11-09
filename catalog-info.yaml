@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: get-hired-in-30-days
+  description: A project to help users get hired in 30 days
+  annotations:
+    github.com/project-slug: SalaryNext/Get-Hired-in-30-Days-Project
+spec:
+  type: service
+  owner: your-team
+  lifecycle: production
