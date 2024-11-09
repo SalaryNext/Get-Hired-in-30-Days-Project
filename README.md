@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   Get Hired in 30 Days | Devashish Chakravarty 
 
 Get Hired in 30 Days
@@ -118,3 +119,6 @@ Yes, the strategies can be customized for any industry or role.
 © 2024 Get Hired in 30 Days by Devashish Chakravarty. All rights reserved.
 
 [Privacy Policy](#) [Terms of Service](#) [Contact](#)
+=======
+# Get-Hired-in-30-Days-Project
+>>>>>>> d673815f916102a0a9b54612b367c89521945338
